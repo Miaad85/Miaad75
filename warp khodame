@@ -134,9 +134,9 @@
         {
             "type": "wireguard",
             "server": "engage.cloudflareclient.com",
-            "server_port": 3581,
+            "server_port": 3854,
             "local_address": [
-                "188.114.98.87\/32",
+                "162.159.192.236\/32",
                 "2606:4700:110:8a6c:64b9:e1c0:f869:95a3\/128"
             ],
             "private_key": "oMZBnD\/5Mlg+W0xGwGFhQbKq1\/ieMnNHkMay5YHOh2w=",
